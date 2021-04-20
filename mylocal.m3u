@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" tvg-url="" group-title="",MBC
+http://121.130.210.101:9981/stream/channel/a28109fcab405522b4fd33f9fd6aea88
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS 1" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" tvg-url="" group-title="",KBS 1
+http://121.130.210.101:9981/stream/channelid/637185705
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-name="KBS 2" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" tvg-url="" group-title="",KBS 2
+http://121.130.210.101:9981/stream/channel/e7b7a8aa3fd9bb6dee30a9607e297c15
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" tvg-url="" group-title="",SBS
+http://121.130.210.101:9981/stream/channel/5cf5f49a6ff5befd97f7f360e0c462f3
+#EXTINF:-1 tvg-id="ArirangHD.kr" tvg-name="Arirang HD" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-url="" group-title="",Arirang HD (1080p)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSInternational.kr" tvg-name="SBS International" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/JNmRU3V.png" tvg-url="" group-title="",SBS International (480p)
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSKNN.kr" tvg-name="SBS KNN" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png" tvg-url="" group-title="",SBS KNN (450p)
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSPlus.kr" tvg-name="SBS Plus" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/lJdOstp.png" tvg-url="" group-title="",SBS Plus (480p)
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="SBSStar.kr" tvg-name="SBS Star" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" tvg-url="" group-title="",SBS Star (480p)
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1,EBS 1
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNBayArea.us" tvg-name="CBSN Bay Area" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PNrkhuf.jpg" tvg-url="" group-title="Local",CBSN Bay Area (720p)
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:-1 tvg-id="PlayboyTV.us" tvg-name="Playboy TV" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/PLAYBOY_TV.jpg" tvg-url="" group-title="XXX",Playboy TV
+http://187.188.147.165:8000/play/a00l/index.m3u8
